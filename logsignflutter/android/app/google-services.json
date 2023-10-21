@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "206521139828",
+    "project_id": "login-signup-authproject",
+    "storage_bucket": "login-signup-authproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206521139828:android:6c1f3a8e42239716a4c721",
+        "android_client_info": {
+          "package_name": "com.example.logsignflutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_9wgcJjmjy8yXn4AG7XhQHv0TqeMcLMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
